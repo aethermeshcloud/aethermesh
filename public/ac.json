@@ -1,0 +1,21 @@
+{
+    "version": "v1.0.0",
+    "title": {
+        "en": "Mining Machine New Version Release Announcement",
+        "zh-SG": "矿机新版本发布公告",
+        "zh-TW": "礦機新版本發布公告",
+        "ja-JP": "マイニングマシン新バージョン公開のお知らせ",
+        "ko-KR": "채굴기 신규 버전 출시 공지"
+    },
+    "content": {
+        "en": "Dear users,\\nTo further improve mining efficiency and operational stability, we are officially releasing the new version of our mining machine firmware/software. This update brings comprehensive optimizations to performance, energy efficiency, and system reliability, delivering higher computing power and a smoother mining experience.\\n\\nUpdate Highlights:\\n🚀 Hashrate Optimization: Improved overall computing efficiency\\n⚡ Enhanced Power Efficiency: Higher mining performance at the same power consumption\\n🔧 Improved System Stability: More reliable long-term operation\\n🔄 New Intelligent Tuning: Automatically adjusts performance based on environment\\n\\nThe new version is now fully available. Please update in time. If you encounter any issues, feel free to contact our technical support team.\\n\\nThank you for your continued trust and support!\\n—— AetherMesh Mining Team",
+        "zh-SG": "尊敬的用户：\\n为进一步提升挖矿效率与运行稳定性，我们正式推出矿机新版固件/软件。本次更新对性能、能效比及系统可靠性进行了全面优化，为您带来更高算力表现与更平稳的挖矿体验。\\n\\n本次更新亮点包括：\\n🚀 算力优化升级：计算效率全面提升\\n⚡ 能耗控制增强：同等功耗下挖矿效率更高\\n🔧 系统稳定性提高：长期运行更可靠\\n🔄 新增智能调校：根据环境自动优化性能\\n\\n新版现已全面上线，欢迎各位用户及时更新体验。如遇到任何问题，可随时联系我们的技术支持团队。\\n\\n感谢您一直以来的信任与支持！\\n—— AetherMesh矿机团队",
+        "zh-TW": "尊敬的用戶：\\n為進一步提升挖礦效率與運行穩定性，我們正式推出礦機新版韌體／軟體。本次更新對性能、能效比及系統可靠性進行了全面優化，為您帶來更高算力表現與更穩定的挖礦體驗。\\n\\n本次更新亮點包括：\\n🚀 算力優化升級：計算效率全面提升\\n⚡ 能耗控制增強：同等功耗下挖礦效率更高\\n🔧 系統穩定性提高：長期運行更可靠\\n🔄 新增智能調校：根據環境自動優化性能\\n\\n新版現已全面上線，歡迎各位用戶即時更新體驗。如遇到任何問題，可隨時聯繫我們的技術支援團隊。\\n\\n感謝您一直以來的信任與支持！\\n—— AetherMesh礦機團隊",
+        "ja-JP": "ユーザーの皆様へ：\\nマイニング効率と動作安定性をさらに向上させるため、マイニングマシンの新バージョン（ファームウェア／ソフトウェア）を正式リリースしました。本アップデートでは、性能、エネルギー効率、システム信頼性を全面的に最適化し、より高いハッシュレートとスムーズなマイニング体験を提供します。\\n\\nアップデート内容：\\n🚀 ハッシュレート最適化：計算効率が大幅に向上\\n⚡ 省電力性能の強化：同じ消費電力でより高い採掘性能を実現\\n🔧 システム安定性の向上：長時間運用でもより高い信頼性\\n🔄 新しいインテリジェント調整：環境に応じて自動で性能を最適化\\n\\n新バージョンはすでに公開されています。ぜひ最新バージョンにアップデートしてご利用ください。問題が発生した場合は、技術サポートチームまでお気軽にお問い合わせください。\\n\\n今後とも変わらぬご支援を賜りますようお願い申し上げます。\\n—— AetherMesh マイニングチーム",
+        "ko-KR": "존경하는 사용자 여러분께：\\n채굴 효율과 운영 안정성을 더욱 향상시키기 위해 채굴기 신규 펌웨어/소프트웨어 버전을 공식 출시했습니다. 이번 업데이트는 성능, 에너지 효율, 시스템 안정성을 전면적으로 개선하여 더 높은 해시레이트와 더욱 안정적인 채굴 경험을 제공합니다.\\n\\n업데이트 주요 내용：\\n🚀 해시레이트 최적화: 연산 효율 전면 향상\\n⚡ 전력 효율 강화: 동일 소비전력에서도 더 높은 채굴 성능 제공\\n🔧 시스템 안정성 향상: 장시간 구동에도 더욱 신뢰성 강화\\n🔄 지능형 자동 조절 추가: 환경에 따라 성능 자동 최적화\\n\\n신규 버전이 이미 전체 배포되었습니다. 업데이트를 진행해 주시기 바랍니다. 문제가 발생하면 언제든지 기술 지원팀에 문의해주세요。\\n\\n항상 보내주시는 신뢰와 성원에 감사드립니다。\\n—— AetherMesh 채굴기 팀"
+    },
+    "WindownloadUrl": "https://github.com/aethermeshcloud/aethermesh/releases",
+    "MacdownloadUrl": "https://github.com/aethermeshcloud/aethermesh/releases",
+    "Mac86downloadUrl": "https://github.com/aethermeshcloud/aethermesh/releases",
+    "mandatory": false
+}
